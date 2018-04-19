@@ -1,0 +1,59 @@
+body { 
+ 
+ font-family: Tahoma;
+ margin:0;
+ padding:0;
+
+}
+.bgimg {
+	background-size: cover;
+}
+ 
+ input {
+ 	padding:5px;
+ }
+  
+ 
+#toppart{
+	background-color: dodgerblue;
+	opacity:.9;
+	color:white;
+	padding: 10px; 
+
+	text-align: center;
+	padding-bottom: 30px;
+	 
+}
+.links {
+	color:darkblue;
+}
+#bgimg {
+	position: fixed;
+	top:0;
+	left:0;
+	z-index:-1;
+	width:100%;
+}
+ 
+#nytimes {
+	background-color:white;
+	opacity: .75; 
+	float:left;
+	width:60%;
+}
+#nytimesheader { 
+	 
+ 	background-color:yellowgreen;
+	padding: 10px;
+}
+#wikipedia {
+	float:right;
+	width:40%;
+	background-color:white;
+	opacity: .75;
+}
+#wikiheader {
+	background-color: yellowgreen;
+ 	color: white;
+	padding: 10px;
+}
