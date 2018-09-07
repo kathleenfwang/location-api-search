@@ -1,1 +1,1 @@
-Pulls NY times, Wikipedia links, and a google maps street view of an inputted address. 
+Made with NY Times, Wikipedia, and Google Maps API and JS/HTML5/CSS3. 
